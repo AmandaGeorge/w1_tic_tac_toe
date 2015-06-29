@@ -6,3 +6,23 @@
   border: 1px solid black;
   height: 150px;
 }
+
+div { /*this is for the text in the boxes*/
+	text-align: center;
+	font-size: xx-large;
+	/*#008080 is teal 
+	#D2B48C is tan */
+}
+
+.colorX { /*changes the background color of userA's selection to teal*/
+	background-color: #008080;
+}
+
+.colorO { /*changes the background color of userB's selection to tan*/
+	background-color: #D2B48C;
+}
+
+.clear {
+	background-color: "none";
+}
+
